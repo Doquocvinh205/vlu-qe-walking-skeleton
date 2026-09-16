@@ -1,5 +1,5 @@
 function checkLogin(user, pass) {
-  return user === "admin" && pass === "123";
+  return user === "admin" && pass === "1234";
 }
 
 // Hỗ trợ chạy trên trình duyệt
